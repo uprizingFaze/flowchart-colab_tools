@@ -42,7 +42,7 @@
 
 ```bash
 git clone https://github.com/uprizingFaze/flowchart-colab_tools.git
-cd Colab_Tools
+cd flowchart-colab_tools
 ```
 
 #####  Instalación de dependencias:
