@@ -7,7 +7,7 @@
 
 
 
-#### Documentacion del proyecyto
+#### Documentacion del proyecto
 - [Docs](https://docs.colabtools.online/)
 
 
